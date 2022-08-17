@@ -20,10 +20,10 @@ Dependencies
 [cube1in9-esp-rfm69]: https://bitbucket.org/openshell/cube-1.9-esp-12-rfm69/
 [cube1in9-esp-rfm69 image]: https://bitbucket.org/openshell/cube-1.9-esp-12-rfm69/raw/default/images/top.png
 
-[ukhasnet-rfm69]: https://git.cruor.openshell.no/openshell/arduino/ukhasnetrfm69
-[ukhasnet-rfm69 download]: https://git.cruor.openshell.no/openshell/arduino/ukhasnetrfm69/-/archive/arduino3/ukhasnetrfm69-arduino3.zip
+[ukhasnet-rfm69]: https://github.com/oddstr13/ukhasnet-rfm69
+[ukhasnet-rfm69 download]: https://github.com/oddstr13/ukhasnet-rfm69/archive/refs/heads/arduino3.zip
 [ukhasnet-rfm69 upstream]: https://github.com/UKHASnet/ukhasnet-rfm69
 
-[buffer]: https://git.cruor.openshell.no/openshell/arduino/buffer
-[buffer download]: https://git.cruor.openshell.no/openshell/arduino/buffer/-/archive/master/buffer-master.zip
+[buffer]: https://github.com/oddstr13/arduino-buffer
+[buffer download]: https://github.com/oddstr13/arduino-buffer/archive/refs/heads/master.zip
 [buffer origins]: https://bitbucket.org/openshell/openshell-ukhasnet-arduino
